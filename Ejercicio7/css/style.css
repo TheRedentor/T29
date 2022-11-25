@@ -18,24 +18,24 @@ table {
 }
 
 #A {
-    background-image: url(/Ejercicio7/images/back_mantel.jpg);
+    background-image: url(../images/back_mantel.jpg);
 }
 
 #B {
-    background-image: url(/Ejercicio7/images/back_mantel.jpg);
+    background-image: url(../images/back_mantel.jpg);
     background-repeat: no-repeat;
     background-size: 120px;
     background-position: 50%;
 }
 
 #C {
-    background-image: url(/Ejercicio7/images/back_mantel.jpg);
+    background-image: url(../images/back_mantel.jpg);
     background-repeat: no-repeat;
     background-size: 160px;
 }
 
 #D {
-    background-image: url(/Ejercicio7/images/back_mantel.jpg);
+    background-image: url(../images/back_mantel.jpg);
     background-repeat: no-repeat;
     background-size: 120px;
     background-position: 50%;
@@ -43,12 +43,12 @@ table {
 }
 
 #E {
-    background-image: url(/Ejercicio7/images/dh.jpg);
+    background-image: url(../images/dh.jpg);
     background-size: 160px;
 }
 
 #F {
-    background-image: url(/Ejercicio7/images/dh.jpg);
+    background-image: url(../images/dh.jpg);
     background-repeat: no-repeat;
     background-size: 120px;
     background-position: 50%;
@@ -56,7 +56,7 @@ table {
 }
 
 #G {
-    background-image: url(/Ejercicio7/images/dh_2.jpg);
+    background-image: url(../images/dh_2.jpg);
     background-repeat: no-repeat;
     background-size: 160px;
     background-position: 50%;
@@ -64,7 +64,7 @@ table {
 }
 
 #H {
-    background-image: url(/Ejercicio7/images/dh_3.jpg);
+    background-image: url(../images/dh_3.jpg);
     background-repeat: no-repeat;
     background-size: 85px;
     background-position: 50%;
