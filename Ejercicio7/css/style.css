@@ -1,0 +1,88 @@
+body {
+    background-image: url(/Ejercicio7/images/ac.jpg);
+    width: 1100px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.caja {
+    width: 160px;
+    height: 160px;
+    margin-right: 50px;
+    margin: 50px 50px 0px 50px;
+    border: 1px black solid;
+    text-align: center;
+    display: inline-block;
+}
+
+#A {
+    background-image: url(/Ejercicio7/images/back_mantel.jpg);
+}
+
+#B {
+    background-image: url(/Ejercicio7/images/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 120px;
+    background-position: 50%;
+}
+
+#C {
+    background-image: url(/Ejercicio7/images/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 160px;
+}
+
+#D {
+    background-image: url(/Ejercicio7/images/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 120px;
+    background-position: 50%;
+    background-color: white;
+}
+
+#E {
+    background-image: url(/Ejercicio7/images/dh.jpg);
+    background-size: 160px;
+}
+
+#F {
+    background-image: url(/Ejercicio7/images/dh.jpg);
+    background-repeat: no-repeat;
+    background-size: 120px;
+    background-position: 50%;
+    background-color: white;
+}
+
+#G {
+    background-image: url(/Ejercicio7/images/dh_2.jpg);
+    background-repeat: no-repeat;
+    background-size: 160px;
+    background-position: 50%;
+    background-color: white;
+}
+
+#H {
+    background-image: url(/Ejercicio7/images/dh_3.jpg);
+    background-repeat: no-repeat;
+    background-size: 85px;
+    background-position: 50%;
+    background-color: white;
+}
+
+#I {
+    background-image: linear-gradient(to right, rgb(184, 241, 117), rgb(88, 85, 85));
+}
+
+#J {
+    background-image: linear-gradient(rgb(255, 202, 172), rgb(94, 30, 0));
+}
+
+#K {
+    background-image: linear-gradient(rgb(222, 248, 219), rgb(11, 94, 0));
+}
+
+#L {
+    background-image: linear-gradient(rgba(222, 248, 219, 0), rgb(11, 94, 0));
+}
